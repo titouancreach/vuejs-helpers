@@ -1,7 +1,8 @@
 # vuejs-helpers
 List of helpers I use daily with vuejs (jsx)
 
-(Currently in development)
+Currently in development.
+It's more a list of ideas than a package for now. It can become a package if the helpers become very helpful. 
 
 ## Functional Component
 
